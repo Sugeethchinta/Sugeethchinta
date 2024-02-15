@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sugeethchinta
-- 👀 I’m interested in Quality Assurance
+- 👀 I’m interested in working as a Quality Assurance Engineer
 - 🌱 I’m currently learning Selenium and Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sugeethc1@gmail.com
